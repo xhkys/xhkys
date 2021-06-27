@@ -30,11 +30,11 @@
 	$(".paixu,.downgz_paixu").click(function(){
 		if(toggle)
 		{
-			$(this).find("img").attr("src","images/paixun_sheng.png");
+			$(this).find("img").attr("src","https://cdn.jsdelivr.net/gh/xhkys/xhkys@main/kkysw/template/kkys_pc/image/paixun_sheng.png");
 			toggle=false;
 		}
 		else{
-			$(this).find("img").attr("src","images/paixun_jiangdi.png");
+			$(this).find("img").attr("src","https://cdn.jsdelivr.net/gh/xhkys/xhkys@main/kkysw/template/kkys_pc/image/paixun_jiangdi.png");
 			toggle=true;
 		}
 		
