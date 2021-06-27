@@ -1,0 +1,45 @@
+@charset "utf-8";
+
+html{font-size:62.5%; margin: 0 auto;} 
+body{font-size:14px;font-size:1.4rem;} 
+p{font-size:14px;font-size:1.4rem;}
+body,ol,ul,h1,h2,h3,h4,h5,h6,p,th,td,dl,dd,form,fieldset,legend,input,textarea,select{margin:0;padding:0;}
+div,dl,dt,dd,form,h1,h2,h3,h4,h5,h6,img,ol,ul,li,table,th,td,p,span,a{border:0;}
+img,input{border:none;vertical-align:middle;}
+body{font-family:"MicrosoftYaHei";font-size:1.4rem; color:#333b44; background: #f2f2f2; max-width:720px;margin: 0 auto;}
+html,body{height:100%;}
+ul,ol,li{list-style-type:none;}
+th,td,input{font-size:1.4rem; background:none;}
+h1,h2,h3,h4,h5{font-size:1.4rem; font-weight: normal;}
+i,em{font-style: normal;}
+button{border:none;cursor:pointer;font-size:12px;background-color:transparent;}
+a{color:#333b44;}
+a:link,a:visited{text-decoration:none;}
+a:hover,a:active{text-decoration:none;color:#33cc99;}
+.clear{clear:both;font-size:1px;height:0;visibility:hidden;line-height:0;}
+table{border-collapse:collapse;border-spacing:0; font-size: 14px;;}
+input,
+button,
+select,
+textarea{outline:none}
+p{word-wrap:break-word}
+.clear{ clear:both; height:0px;
+    content: ".";
+    display: block;
+    height: 0px;
+    visibility: hidden;
+}
+.clearfix {zoom:1;}
+.clearfix:after {display:block;visibility:hidden;font-size:0;height:0;content:" ";clear:both;}
+.wid800{width: 800px;}
+.wid800{width: 800px;}
+.wid250{width: 250px;}
+.width250{width: 250px;}
+
+.fLf{ float: left }
+.fRt{ float: right; }
+.textColorYell{ color: #ff6600;}
+.textRed{color: #ec414d;}
+.textGreen{ color: #33cc99;}
+.textColor99{ color: #999;}
+.textColor66{ color: #666;}
